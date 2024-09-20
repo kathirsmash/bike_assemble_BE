@@ -1,0 +1,20 @@
+[
+    {
+        "username": "admin", "type":"admin", "password": "Admin@123"
+    },
+    {
+        "username": "employee 1", "type":"employee", "password": "Password123$"
+    },
+    {
+        "username": "employee 2", "type":"employee", "password": "Password123$"
+    },
+    {
+        "username": "employee 3", "type":"employee", "password": "Password123$"
+    },
+    {
+        "username": "employee 4", "type":"employee", "password": "Password123$"
+    },
+    {
+        "username": "employee 5", "type":"employee", "password": "Password123$"
+    }
+]

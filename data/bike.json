@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Bike 1",
+        "timeToAssemble": 50
+    },
+    {
+        "name": "Bike 2",
+        "timeToAssemble": 60
+    },
+    {
+        "name": "Bike 3",
+        "timeToAssemble": 80
+    }
+]
